@@ -4,6 +4,6 @@ Access to common file attributes (uid, gid, permissions, ctime, mtime, atime)
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/file-attributes.git |
-| commit  | 07150b9                                             |
+| commit  | b2b19c5                                             |
 | systems | file-attributes                                     |
 |---------+-----------------------------------------------------|
