@@ -3,7 +3,7 @@
 Access to common file attributes (uid, gid, permissions, ctime, mtime, atime)
 
 |---------+-----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/file-attributes.git |
-| commit  | 4d8c26a                                             |
+| source  | git:https://codeberg.org/shinmera/file-attributes.git |
+| commit  | 0000000                                             |
 | systems | file-attributes                                     |
 |---------+-----------------------------------------------------|
